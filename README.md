@@ -38,16 +38,6 @@ Análise de dados focada no combate ao desperdício de alimentos e segurança al
 - **Destaque:** Transformação de dados brutos em métricas de impacto social.
 - **Techs:** Python, Pandas, Streamlit.
 
----
-
-## 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enoGuarana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoGuarana&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoenomoto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvrenomoto@gmail.com)
