@@ -1,6 +1,6 @@
-# Olá, eu sou o João Enomoto! 👋
+# Olá, me chamo João Enomoto! 👋
 
-### Software Engineering Student | Enthusiast of Python, React & Data Science | Building AI Solutions
+### Software Engineering Student | Enthusiast of Python Data Science | Building AI Solutions
 
 Sou estudante de Engenharia de Software focado em construir soluções inteligentes com IA e análise de dados. Atualmente, busco aplicar meus conhecimentos em projetos que unam eficiência técnica e impacto real.
 
