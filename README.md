@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor! 👋
+# Olá, eu sou o João Enomoto! 👋
 
 ### Software Engineering Student | Enthusiast of Python, React & Data Science | Building AI Solutions
 
