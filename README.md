@@ -1,12 +1,12 @@
-# Olá, me chamo João Enomoto! 👋
+# Hi, my name is João Enomoto! 👋
 
 ### Software Engineering Student | Enthusiast of Python Data Science | Building AI Solutions
 
-Sou estudante de Engenharia de Software focado em construir soluções inteligentes com IA e análise de dados. Atualmente, busco aplicar meus conhecimentos em projetos que unam eficiência técnica e impacto real.
+I am a Software Engineering student focused on building intelligent solutions with AI and data analysis. Currently, I seek to apply my knowledge to projects that combine technical efficiency and real impact.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ### 💻 Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
