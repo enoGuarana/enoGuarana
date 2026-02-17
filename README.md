@@ -21,7 +21,7 @@ Sou estudante de Engenharia de Software focado em construir soluções inteligen
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Real volunteer projects for international NGOs
 
 ### 🌊 [MerTerre Impact Dashboard](https://github.com/enoGuarana/MerTerre-Impact-Dashboard)
 Dashboard interativo para visualização de resíduos marinhos em Marseille.
