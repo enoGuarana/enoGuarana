@@ -38,6 +38,6 @@ Análise de dados focada no combate ao desperdício de alimentos e segurança al
 - **Destaque:** Transformação de dados brutos em métricas de impacto social.
 - **Techs:** Python, Pandas, Streamlit.
 
-## 📫 Vamos nos conectar?
+## 📫 Lets connect us?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoenomoto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvrenomoto@gmail.com)
