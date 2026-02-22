@@ -23,21 +23,19 @@ I am a Software Engineering student focused on building intelligent solutions wi
 
 ## 🚀 Real volunteer projects for international NGOs
 
-### 🌊 [MerTerre Impact Dashboard](https://github.com/enoGuarana/MerTerre-Impact-Dashboard)
-Dashboard interativo para visualização de resíduos marinhos em Marseille.
-- **Destaque:** Geolocalização com Folium e análise de impacto ambiental.
-- **Techs:** Python, Pandas, Plotly, Streamlit.
-- **[Acesse o Dashboard Live](https://merterre-impact-dashboard.streamlit.app/)**
+🌊 MerTerre Impact Dashboard
+Interactive dashboard for visualizing marine debris in Marseille.
+Highlight: Geolocation with Folium and environmental impact analysis.
+Techs: Python, Pandas, Plotly, Streamlit.
+Access the Live Dashboard
+🎨 Imagina_ai
+Social impact initiative that uses Generative AI to transform drawings from children at the NGOs Save the Children and Barça Foundation into realistic images.
+Techs: Python, Artificial Intelligence.
+🍎 Espigoladors Barcelona
+Data analysis focused on combating food waste and promoting food security in Barcelona.
+Highlight: Transforming raw data into social impact metrics.
+Techs: Python, Pandas, Streamlit.
+📫 Let's Connect!
 
-### 🎨 [Imagina_ai](https://github.com/enoGuarana/Imagina_ai)
-Iniciativa de impacto social que utiliza IA Generativa para transformar desenhos de crianças das ONGs **Save the Children** e **Fundação Barça** em imagens realistas.
-- **Techs:** Python, Inteligência Artificial.
-
-### 🍎 [Espigoladors Barcelona](https://github.com/enoGuarana/Espigoladors_Barcelona)
-Análise de dados focada no combate ao desperdício de alimentos e segurança alimentar em Barcelona.
-- **Destaque:** Transformação de dados brutos em métricas de impacto social.
-- **Techs:** Python, Pandas, Streamlit.
-
-## 📫 Lets connect us?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoenomoto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvrenomoto@gmail.com)
