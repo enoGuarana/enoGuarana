@@ -26,7 +26,6 @@ I am a Software Engineering student focused on building intelligent solutions wi
 Interactive dashboard for visualizing marine debris in Marseille.
 - **Highlight:** Geolocation with Folium and environmental impact analysis.
 - **Techs:** Python, Pandas, Plotly, Streamlit.
-- **[Access the Live Dashboard](https://merterre-impact-dashboard.streamlit.app/)**
 
 ### 🎨 [Imagina_ai](https://github.com/enoGuarana/Imagina_ai)
 Social impact initiative that uses Generative AI to transform drawings from children at the NGOs **Save the Children** and **Barça Foundation** into realistic images.
