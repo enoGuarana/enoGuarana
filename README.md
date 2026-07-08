@@ -1,10 +1,8 @@
-# Hi, my name is João Enomoto! 👋
+# João Victor Rikio Enomoto
 
-### Software Engineering Student focused on AI Engineering, RAG systems, ML pipelines and data-driven applications.
+Software Engineering student focused on AI Engineering, RAG systems, ML pipelines and data-driven applications.
 
-I am a Software Engineering student focused on building intelligent solutions with AI and data analysis. Currently, I seek to apply my knowledge to projects that combine technical efficiency and real impact.
-
----
+I build applied AI projects using Python, data analysis, retrieval-augmented generation, automation and web interfaces. My current focus is turning prototypes into reproducible, documented and deployable systems.
 
 ## 🛠️ Technologies and Tools
 
