@@ -1,6 +1,6 @@
 # Hi, my name is João Enomoto! 👋
 
-### Software Engineering Student | Enthusiast of Python Data Science | Building AI Solutions
+### Software Engineering Student focused on AI Engineering, RAG systems, ML pipelines and data-driven applications.
 
 I am a Software Engineering student focused on building intelligent solutions with AI and data analysis. Currently, I seek to apply my knowledge to projects that combine technical efficiency and real impact.
 
